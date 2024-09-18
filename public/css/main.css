@@ -1,0 +1,93 @@
+.uppercase {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.nav-header {
+    opacity: 75%
+}
+
+.nav-header:hover {
+    opacity: 100%
+}
+
+.nav-link:hover {
+    background-color: #8d8d8d;
+    color: #fff;
+}
+
+#item-list {
+    min-height: 70vh;
+}
+
+.product-thumnail {
+    object-fit: cover;
+}
+
+.card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.container-product {
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(248, 244, 244);
+}
+
+.card:hover {
+    box-shadow: 2px 4px 10px 3px rgba(220, 95, 95, 0.2);
+    background-color: #906464;
+    color: #fff
+}
+
+.shoping-container {
+    overflow-x: hidden
+}
+
+#admin-body {
+    background-color: aliceblue;
+}
+
+.admin-container {
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    min-height: 80vh;
+}
+
+.row-divided {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.btn-buy {
+    height: 45px;
+}
+
+.btn-login-form {
+    min-width: 200px
+}
+
+.login-container {
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    min-height: 70vh;
+}

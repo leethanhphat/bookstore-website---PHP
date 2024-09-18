@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "files": [
+            "modules/db_module.php",
+            "models/User.php"
+        ]
+    }
+}

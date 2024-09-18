@@ -1,0 +1,1 @@
+<?php include("controllers/admin_controller.php");?>
